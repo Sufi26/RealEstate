@@ -28,7 +28,7 @@ RentUp is a rental platform where users can browse and rent items. The applicati
 
 ## Live Demo
 
-Paste your vercel link
+[Live Demo on Vercel](https://rentup-beryl.vercel.app/)
 
 ## Installation
 
