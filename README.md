@@ -11,7 +11,6 @@ Welcome to RentUp! This project is a web application designed for rental service
 - [Live Demo](#live-demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 
 
@@ -40,55 +39,26 @@ To run this project locally, follow these steps:
    Add the link of your github
    cd rentup
 
-•  Install the dependencies:
-sh
-Copy code
-npm install
-•  Set up environment variables: Create a .env file in the root directory and add necessary environment variables.
-•  Start the development server:
-sh
-Copy code
-npm start
+2. Install the dependencies:
+   ```sh
+   npm install
 
-Usage
+3. Set up environment variables:
+   
+   Create a .env file in the root directory and add necessary environment variables.
+
+5. Start the development server:
+   ```sh
+   npm start
+
+## Usage
+
 Once the development server is running, open your browser and navigate to http://localhost:3000 to see the application.
-Project Structure
 
 
-
-
-rentup/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── Footer.js
-│   │   ├── Header.js
-│   │   ├── ItemCard.js
-│   │   ├── ItemList.js
-│   │   └── ...
-│   ├── pages/
-│   │   ├── Home.js
-│   │   ├── ItemDetail.js
-│   │   ├── Login.js
-│   │   ├── Profile.js
-│   │   └── ...
-│   ├── styles/
-│   │   ├── footer.css
-│   │   ├── header.css
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── index.css
-├── .env
-├── .gitignore
-├── package.json
-└── README.md
-
-
-Technologies Used
-•	Frontend: React, React Router, CSS
-•	Icons: FontAwesome
-•	Hosting: Vercel
+## Technologies Used
+-	Frontend: React, React Router, CSS
+-	Icons: FontAwesome
+-	Hosting: Vercel
 
 
