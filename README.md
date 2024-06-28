@@ -36,8 +36,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   Add the link of your github
-   cd rentup
+   git clone URL OF REPOSITORY
 
 2. Install the dependencies:
    ```sh
